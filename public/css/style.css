@@ -1,0 +1,12 @@
+body {
+  color: red;
+  text-align: center;
+}
+h1 {
+  color: red !important;
+}
+footer {
+  margin: auto;
+  border-top: 1px solid thistle;
+  width: 20%;
+}
